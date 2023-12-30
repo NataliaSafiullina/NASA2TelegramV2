@@ -7,7 +7,6 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 import java.io.IOException;
 
-//6730928576:AAEEIUQNFvRC767VeCuzv5FB5UvDpYLj1SI
 
 public class Main {
     public static void main(String[] args) throws IOException, TelegramApiException {
