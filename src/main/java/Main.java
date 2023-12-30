@@ -11,7 +11,7 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException, TelegramApiException {
         new MyTelegramBot("NasaDayPicture_bot",
-                "6730928576:AAEEIUQNFvRC767VeCuzv5FB5UvDpYLj1SI");
+                "**********:AAEEIUQNFvRC767VeCuzv5FB5UvDpYLj1SI");
 
     }
 }
